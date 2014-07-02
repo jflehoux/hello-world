@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-initiating myself to github
+Hello Gluten-Free world!
+
+Your taste is quite discutable.
