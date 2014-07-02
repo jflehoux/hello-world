@@ -1,6 +1,4 @@
 hello-world
 ===========
 
-Hello Gluten-Free world!
-
-Your taste is quite discutable.
+Let's start a new chapter!
